@@ -14,24 +14,24 @@ var stickie = {
 
 			"logo_holder": {
                 "stick_x": 0,
-                "stick_y": 80,
+                "stick_y": 50,
 				"start_x": 0,
 				"start_y": 0,
 				"stuck":0,
-				"docked":0
+				"docked":0,
+				"type":"stick"
             },
 			
-			"nav_holder": {
+			"box-car-1": {
                 "stick_x": 0,
-                "stick_y": 0,
+                "stick_y": 100,
 				"start_x": 0,
 				"start_y": 0,
+				"stay_x":100,
 				"stuck":0,
-				"docked":0
+				"docked":0,
+				"type":"stay"
             }
-			
-			
-          
 			
 }
 
